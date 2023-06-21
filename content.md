@@ -37,132 +37,13 @@ Cloud posgrade co-director
 
 ## Certification map
 
-![AWS Certification Map](images/aws-cert-map.png)
+![AWS Certification Map](images/aws-plus-hashi-cert-map.png)
 
 ::: Notes
 
 Visit the [official AWS certification page](https://aws.amazon.com/certification/) to get more details
 about this map.
 
-[](.coverbg)
-
-![man in black t-shirt and white shorts walking on brown wooden floor, by Karsten Winegeart, https://unsplash.com/photos/eGSBVVtVCCw](images/karsten-winegeart-eGSBVVtVCCw-unsplash.jpg)
-
-[](.illustration.certification-card)
-
-## AWS Certified Solutions Architect - Associate
-
-![Cert badge](images/aws-cert-badge-arch-asso.png)
-
-* **130** min to complete the exam
-* **65** questions
-* **720** passing score
-* The **most versatile** certification
-* Popular services, governance and IAM, best practices, networking,
-computation, monitoring, scalability, caching, queueing, storage options, RDS,
-containers, DR strategies
-
-
-::: Notes
-
-[Certification page](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
-
-:::
-
-[](.illustration.certification-card)
-
-## AWS Certified Solutions SysOps Administrator - Associate
-
-![Cert badge](images/aws-cert-badge-sys-asso.png)
-
-* **130** minutes, **65** questions
-* Very well-suited for SRE roles
-* **Overlapping with Architecture** one makes easier to pass this exam
-* Focus on **observability**, troubleshooting, and administration
-* Hands-on **lab included** (or not)
-
-
-::: Notes
-
-[Certification page](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
-
-:::
-
-
-[](.coverbg)
-
-![Young man scoring in basketball, by August Phlieger, https://unsplash.com/photos/CREqtqgBFcU](images/august-phlieger-CREqtqgBFcU-unsplash.jpg)
-
-[](.illustration.certification-card)
-
-## AWS Certified DevOps Engineer - Professional
-
-![Cert badge](images/aws-cert-badge-devops-pro.png)
-
-* **180** min to complete the exam
-* **75** questions
-* **750** passing score
-* Difficult to prepare
-* Questions from many **different domains**
-* Many **security** related questions
-* Unpopular services
-
-::: Notes
-
-[Certification page](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
-
-:::
-
-[](.illustration.certification-card)
-
-## Hashicorp Infrastructure Automation Certification
-
-![Cert badge](images/hashicorp-terraform-asso.png)
-
-* **60** min to complete the exam
-* **57** questions
-* **70%** passing score
-* Focused on **Terraform**
-* Not very difficult
-* **Great for learning** automation
-
-::: Notes
-
-[Certification page](https://www.hashicorp.com/certification/terraform-associate)
-
-:::
-
-[](.coverbg)
-
-![Young woman fencing, by cottonbro studio, https://www.pexels.com/photo/fencer-holding-an-foil-sword-10340267/](images/pexels-cottonbro-studio-10340267.jpg)
-
-[](.blocks)
-
-## Specialties
-
-* ![Cert badge](images/aws-cert-badge-sec-spec.png)
-* ![Cert badge](images/aws-cert-badge-advnet-spec.png)
-
-::: Notes
-
-### Security
-
-* **170** min to complete the exam
-* **65** questions
-* **750** passing score
-* **Not much more difficult** than the associated level
-* **Narrower focus** than other exams
-* **New version** available next July
-
-### Advanced networking
-
-* **170** min to complete the exam
-* **65** questions
-* **750** passing score
-* **Tough exam**, at least for a former developer
-* **Narrower focus** than other exams
-
-:::
 
 [](#tips,.illustration.whiteboard-off)
 
