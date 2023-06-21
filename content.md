@@ -197,6 +197,8 @@ Prepare yourself and **go for that certification**!
 
 **javi.moreno@global.ntt**
 
-[bit.ly/sre-certs](https://xxx.xxx)
+[bit.ly/sre-certs](https://github.com/ciberado/decks-aws-certs-sre/blob/91c3aa2587b046d8a520bb37bb8c83fb4889b1ab/presentation.pdf)
 
 [bit.ly/javi-linkedin](https://linkedin.com/in/javier-more/)
+
+[aws.amazon.com/certification](https://aws.amazon.com/certification/)
